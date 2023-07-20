@@ -1,0 +1,30 @@
+.btn-orange {
+	background-color: orange;
+	color: black;
+}
+
+a {
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+		sans-serif !important;
+}
+
+p {
+}
+
+table {
+}
+
+body {
+}
+
+.btn-login {
+	width: 20px;
+	height: 20px;
+	color: aqua;
+	background-color: blue;
+	background-image: url(images\bestie1.jpg);
+}
+
+#btn-special {
+	border-color: blueviolet;
+}
